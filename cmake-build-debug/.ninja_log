@@ -1,0 +1,7 @@
+# ninja log v5
+1	520	1695656160201532835	CMakeFiles/SIMS__List.dir/tool.cpp.o	bd71ce7013d3d8aa
+1	65	1703256088669931333	build.ninja	a0ee45ceca79bfc7
+3	568	1695716896608125919	CMakeFiles/SIMS__List.dir/main.cpp.o	1ae3c2a38c201e94
+574	611	1695716896652891356	SIMS__List	f8398345dec1eadf
+1	520	1695656160198430654	CMakeFiles/SIMS__List.dir/Student.cpp.o	1afc899484f56c11
+3	574	1695716896615331784	CMakeFiles/SIMS__List.dir/menu.cpp.o	22493ebbfb89f246
